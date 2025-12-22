@@ -18,6 +18,7 @@ import java.util.Map;
  * 
  * <p>Both a parameterized and default constructor are provided for flexible initialization.
  */
+@SuppressWarnings("unused")
 public class RequestContext {
   /** User identifier */
   private String uid;
